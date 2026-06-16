@@ -1,0 +1,9 @@
+# OS / editor cruft
+.DS_Store
+**/.DS_Store
+
+# Unity import metadata (not needed for figure hosting)
+*.meta
+
+# Editable poster source (the rendered figures are the deliverable)
+Images/MRS_Poster.pptx
