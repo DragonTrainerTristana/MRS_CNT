@@ -1,11 +1,15 @@
-<h1 align="center">A Lightweight Game-Engine Digital Twin for Conductivity in CNT/PDMS Composites</h1>
+<h1 align="center">A Lightweight Game-Engine aided Digital Twin for Conductivity Prediction in Nanocomposite Materials</h1>
 
 <p align="center">
   Static conductivity, a second silica filler, and the piezoresistive response under load — handled by one simulator on one workstation.
 </p>
 
 <p align="center">
-  <b>Seung Hyun Oh</b>, Seunggwan Oh, Kun-Woo Nam, Sung-Hoon Park, Sang Hyun Lee &nbsp;·&nbsp; Korea University &nbsp;·&nbsp; MRS Fall 2026, Symposium NM04
+  <b>Seung Hyun Oh</b><sup>1</sup>, Seunggwan Oh<sup>1</sup>, Kun-Woo Nam<sup>2</sup>, Sung-Hoon Park<sup>2</sup>, Sang Hyun Lee<sup>1</sup>
+</p>
+
+<p align="center">
+  <sub><sup>1</sup> Korea University, Seoul &nbsp;·&nbsp; <sup>2</sup> Dept. of Mechanical Engineering, Soongsil University, Seoul &nbsp;·&nbsp; MRS Fall 2026, Symposium NM04</sub>
 </p>
 
 <p align="center">
@@ -100,5 +104,5 @@ The model takes its three electrical inputs — junction contact resistance, the
 
 <p align="center">
   Figures are posted here for inspection. The simulator code is available on request.<br>
-  <sub>MRS Fall 2026 · Symposium NM04 · Korea University</sub>
+  <sub>MRS Fall 2026 · Symposium NM04 · Korea University &amp; Soongsil University</sub>
 </p>
